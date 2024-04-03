@@ -1,0 +1,117 @@
+.headercontainer {
+    height: 40px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: #1a1a1a; /* Cool dark color */
+}
+
+.fbcontainer {
+    font-size: 20px;
+    color: white;
+    margin-top: 15px;
+    margin-right: 10px; /* Adjusted margin */
+    background-image: url("assets/facebook.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 30px; /* Adjust width if needed */
+    height: 30px; /* Adjust height if needed */
+}
+
+.twittercontainer {
+    font-size: 20px;
+    color: white;
+    margin-top: 15px;
+    margin-right: 10px; /* Adjusted margin */
+    background-image: url("assets/twitter.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 30px; /* Adjust width if needed */
+    height: 30px; /* Adjust height if needed */
+}
+
+.engcontainer,
+.mypagecontainer,
+.logoutcontainer {
+    font-size: 20px;
+    color: white;
+    margin-top: 15px;
+    margin-right: 10px; /* Adjusted margin */
+}
+
+.maincontainer {
+    background-color: white;
+    height: 50px;
+}
+
+.boundarycontainer {
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.aboutcontainer,
+.cccontainer,
+.logocontainer,
+.joincontainer,
+.sponsorcontainer,
+.newscontainer {
+    font-size: 20px;
+    color: grey;
+    margin-top: 15px;
+}
+
+.logocontainer {
+    margin-left: 250px;
+}
+
+.main2container {
+    position: relative;
+    top: 130px;
+    left: 90px;
+}
+
+.hellocontainer {
+    color: red;
+    font-size: 30px;
+    margin-left: 150px;
+}
+
+.creativecontainer {
+    color: red;
+    font-size: 70px;
+    font-weight: bold;
+    margin-left: 150px;
+}
+
+.paracontainer {
+    margin-top: 120px;
+    margin-left: 140px;
+}
+
+.paracontainer p {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #333; /* Dark text color */
+}
+.datecontainer {
+    margin-top: 120px;
+    margin-left: 140px;
+}
+
+.datecontainer p {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #333; /* Dark text color */
+}
+.paracontainer {
+    margin-top: 120px;
+    margin-left: 140px;
+}
+
+.paracontainer p {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #333; /* Dark text color */
+}
